@@ -1,7 +1,6 @@
 # 👨‍💻 João | Estudante de Engenharia de Computação
 
-🎓 **Estudante de Engenharia de Computação** apaixonado por tecnologia e inovação.  
-🐍 **Iniciante em Python** e sempre buscando aprender mais com explicações detalhadas e projetos práticos.  
+🎓 **Estudante de Engenharia de Computação** apaixonado por tecnologia e inovação.    
 🚀 Explorando o mundo da **programação embarcada**, atualmente trabalhando em projetos com ESP32 e triangulação.
 
 ---
