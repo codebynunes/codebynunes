@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 João | Estudante de Engenharia de Computação
 
-<!--
-**codebynunes/codebynunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia de Computação** apaixonado por tecnologia e inovação.  
+🐍 **Iniciante em Python** e sempre buscando aprender mais com explicações detalhadas e projetos práticos.  
+🚀 Explorando o mundo da **programação embarcada**, atualmente trabalhando em projetos com ESP32 e triangulação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Áreas de Interesse
+- Desenvolvimento de Software
+- Sistemas Embarcados
+- Internet das Coisas (IoT)
+- Inteligência Artificial e Machine Learning
+
+---
+
+## 📚 Aprendendo Atualmente
+- **Python**: Foco em automação e integração com hardware.  
+- **ESP32**: Projetos de triangulação e sensores.  
+
+---
+
+## 💡 Vamos Colaborar?
+Adoro trocar ideias sobre tecnologia e estou sempre aberto a novas colaborações. Sinta-se à vontade para explorar meus repositórios ou me contatar!
+
+📬 **Contato**: [www.linkedin.com/in/nunesos]  
